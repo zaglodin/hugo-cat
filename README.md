@@ -14,6 +14,7 @@ Hugo v0.111.3
 this a hugo theme based on red rose and rewrite without bootstrap .
 
 make it your own.
+f
 
 
 
