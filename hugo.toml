@@ -1,0 +1,64 @@
+baseURL = '/'
+languageCode = 'ru'
+title = 'Наталья Заглодина'
+PygmentsCodeFences = true
+PygmentsStyle = "solarized-dark256"
+pluralizelisttitles = "false"
+paginate  = 15
+disableHugoGeneratorInject = false
+enableEmoji = true
+theme ='hugo-cat'
+
+[params]
+ava = "/img/Picture1.png"
+owner ="Магистр психологии"
+talk = "психолог-консультант REBT, CFT, CBT терапевт, CBC-G коуч"
+blogSection = ["blog"]
+description = "Cat"
+favicon = "/img/logo.svg"
+
+#[[menu.main]]
+#name = "Назад"
+#url = "/"
+#weight = 1
+
+#[[menu.main]]
+#name = "Blog"
+#url = "/blog/"
+#weight = 6
+
+[[menu.main]]
+name = "Информация"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Направления"
+url = "/directions/"
+weight = 2
+
+[[menu.main]]
+name = "Стоимость"
+url = "/pricing/"
+weight = 3
+
+[[menu.main]]
+name = "Образование"
+url = "/educ/"
+weight = 4
+
+[[menu.main]]
+name = "Работа"
+url = "/work/"
+weight = 5
+
+[[menu.main]]
+name = "Контакты"
+url = "/contact/"
+weight = 6
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.111.3"
+  
