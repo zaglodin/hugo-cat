@@ -11,8 +11,8 @@ theme ='hugo-cat'
 
 [params]
 ava = "/img/Picture1.png"
-owner ="Магистр психологии"
-talk = "психолог-консультант REBT, CFT, CBT терапевт, CBC-G коуч"
+owner ="Магистр психологии психолог-консультант"
+talk = "REBT, CFT, CBT терапевт, CBC-G коуч"
 blogSection = ["blog"]
 description = "Cat"
 favicon = "/img/logo.svg"
